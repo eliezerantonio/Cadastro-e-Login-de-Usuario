@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Cadastro-e-Login-de-Usuario'
